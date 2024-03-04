@@ -71,8 +71,8 @@ class LockScreen extends HTMLElement {
       </div>
       <div class="center">
         <div class="clock">
-          <div class="time"></div>
           <div class="date"></div>
+          <div class="time"></div>
         </div>
         <media-controller-list></media-controller-list>
         <div class="slider">
