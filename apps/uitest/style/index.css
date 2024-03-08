@@ -29,3 +29,10 @@ body {
 .activable:active {
   background-color: gray;
 }
+
+button {
+  background-color: #f3eeea;
+  border-radius: 100px;
+  height: 50px;
+  width: 100px;
+}
